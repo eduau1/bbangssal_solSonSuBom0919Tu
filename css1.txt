@@ -1,0 +1,38 @@
+
+
+
+body{
+
+border-style: solid;
+border-width: 5px 20px; 
+
+}
+
+padding:
+
+margin-top
+
+grid
+flex
+rem
+color
+background-color: red;
+
+background-attachment: fixed;
+background-attachment: scroll;
+
+border: 5px soild red;
+
+border-style: solid;
+border-style: dotted;
+border-width: 2px;
+border-width: thick;
+
+font-size: 25px;
+:hover
+:active
+:focus
+
+coursor: pointer;
+
+
